@@ -36,6 +36,7 @@ Enjoy and customize.
 Final ability: Input message on transmitter nano’s connected computer. Data is transmitted as binary. Data is converted to ASCII. Data is displayed on LCD.
 
 ## Troubleshooting
+
 Transmitter and Receiver are on and powered.
 Wires do not have contacts crossing
 Use RGB instead of 
