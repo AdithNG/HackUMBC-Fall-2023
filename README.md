@@ -37,8 +37,8 @@ Final ability: Input message on transmitter nano’s connected computer. Data is
 
 ## Troubleshooting
 
-Transmitter and Receiver are on and powered.
-Wires do not have contacts crossing
+Transmitter and Receiver are on and powered.<br>
+Wires do not have contacts crossing.<br>
 Use RGB instead of 
 
 WIP.
