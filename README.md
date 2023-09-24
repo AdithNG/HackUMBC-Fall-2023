@@ -39,7 +39,7 @@ Final ability: Input message on transmitter nano’s connected computer. Data is
 
 Transmitter and Receiver are on and powered.<br>
 Wires do not have contacts crossing.<br>
-Use RGB instead of 
+Use RGB instead of LCD
 
 WIP.
 
